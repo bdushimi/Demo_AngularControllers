@@ -1,0 +1,39 @@
+<div align="center">
+
+    <div  style="margin-top:20px; margin-bottom: 10px">
+        <img id="profile-img" class="profile-img-card" src="//ssl.gstatic.com/accounts/ui/avatar_2x.png" />
+    </div>
+
+    <form class="col-lg-4 col-lg-offset-4" name="form" role="form" novalidate>
+
+        <div class="form-group">
+            <div>
+                <input type="text" ng-model="credentials.username" name="username"
+                       placeholder="Username" class="form-control" required=""/>
+            </div>
+
+            <div ng-show="form.$submitted || form.username.$touched">
+                <div ng-show="form.username.$error.required">Provide your Username.</div>
+            </div>
+
+        </div>
+
+        <div class="form-group">
+            <div>
+                <input type="password" ng-model="credentials.password" id="password" name="password" class="form-control" required=""
+                       placeholder="password" />
+            </div>
+            <div ng-show="form.$submitted || form.password.$touched">
+                <div ng-show="form.password.$error.required">Provide your password.</div>
+            </div>
+
+        </div>
+
+        <br />
+
+        <div>
+            <input type="submit" class="btn btn-primary" value="Login" ng-click="onFormSubmit(credentials)"/>
+        </div>
+
+    </form>
+

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02dd576d-8a25-4bb1-bd91-7d84ea1fead7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="loginController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/login/loginController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="66" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loginForm.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/login/loginForm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="34" column="86" lean-forward="true" selection-start-line="34" selection-start-column="86" selection-end-line="34" selection-end-column="86" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userDetailsDirective.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/userDetails/userDetailsDirective.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userDetails.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/userDetails/userDetails.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="18" column="69" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userDetailsController.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/userDetails/userDetailsController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataService.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Service/DataService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="44" column="63" selection-start-line="44" selection-start-column="63" selection-end-line="44" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/js/filters.js" />
+        <option value="$PROJECT_DIR$/app/js/services/GravatarUrlBuilder.js" />
+        <option value="$PROJECT_DIR$/app/js/controllers/EditProfileController.js" />
+        <option value="$PROJECT_DIR$/app/js/controllers/EditEventController.js" />
+        <option value="$PROJECT_DIR$/app/NewEvent.html" />
+        <option value="$PROJECT_DIR$/app/EventDetails.html" />
+        <option value="$PROJECT_DIR$/app/js/services/EventData.js" />
+        <option value="$PROJECT_DIR$/app/js/controllers/EventListController.js" />
+        <option value="$PROJECT_DIR$/app/js/controllers/EventController.js" />
+        <option value="$PROJECT_DIR$/app/js/controllers/SampleDirectiveController.js" />
+        <option value="$PROJECT_DIR$/app/templates/SampleDirective.html" />
+        <option value="$PROJECT_DIR$/app/js/directives.js" />
+        <option value="$PROJECT_DIR$/app/js/directives/mySample.js" />
+        <option value="$PROJECT_DIR$/app/templates/directives/eventThumbnail.html" />
+        <option value="$PROJECT_DIR$/app/templates/EventList.html" />
+        <option value="$PROJECT_DIR$/app/js/directives/eventThumbnail.js" />
+        <option value="$PROJECT_DIR$/app/js/directives/upvote.js" />
+        <option value="$PROJECT_DIR$/app/templates/directives/upvote.html" />
+        <option value="$PROJECT_DIR$/app/templates/NewEvent.html" />
+        <option value="$PROJECT_DIR$/app/js/directives/datekeys.js" />
+        <option value="$PROJECT_DIR$/app/EditProfile.html" />
+        <option value="$PROJECT_DIR$/app/templates/EventDetails.html" />
+        <option value="$PROJECT_DIR$/app/templates/directives/collapsible.html" />
+        <option value="$PROJECT_DIR$/app/js/directives/collapsible.js" />
+        <option value="$PROJECT_DIR$/scripts/eventsController.js" />
+        <option value="$PROJECT_DIR$/app/js/app.js" />
+        <option value="$PROJECT_DIR$/app/js/directives/loginDirective.js" />
+        <option value="$PROJECT_DIR$/app/js/controllers/loginController.js" />
+        <option value="$PROJECT_DIR$/app/templates/directives/loginForm.html" />
+        <option value="$PROJECT_DIR$/app/LoginForm/loginDirective.js" />
+        <option value="$PROJECT_DIR$/app/login/login.css" />
+        <option value="$PROJECT_DIR$/app/login/loginDirective.js" />
+        <option value="$PROJECT_DIR$/app/UserDetails/userDetailsController.html" />
+        <option value="$PROJECT_DIR$/app/UserDetails/userDetailsController.js" />
+        <option value="$PROJECT_DIR$/app/UserDetails/userDetailsDirective.js" />
+        <option value="$PROJECT_DIR$/app/UserDetails/userDetails.html" />
+        <option value="$PROJECT_DIR$/scripts/web-server.js" />
+        <option value="$PROJECT_DIR$/app/css/app.css" />
+        <option value="$PROJECT_DIR$/app/app.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/login/loginForm.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app/login/loginController.js" />
+        <option value="$PROJECT_DIR$/app/Service/DataService.js" />
+        <option value="$PROJECT_DIR$/app/userDetails/userDetails.html" />
+        <option value="$PROJECT_DIR$/app/userDetails/userDetailsController.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="688" />
+    <option name="width" value="679" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AngCtrlCom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngCtrlCom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AngCtrlCom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngCtrlCom" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AngCtrlCom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngCtrlCom" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AngCtrlCom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngCtrlCom" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="userDetails" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="H:/Angular/Angular-1/angularjs-fundamentals/05/demos/ExerciseFiles/Finished/01-AddingYourFirstRoute" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\AngCtrlCom\app" />
+      <recent name="H:\AngCtrlCom\app\lib\angular" />
+      <recent name="H:\Angular\Angular-1\DemoApp\DemoApp\app\login" />
+      <recent name="H:\Angular\Angular-1\DemoApp\DemoApp\app\css" />
+      <recent name="H:\Angular\Angular-1\DemoApp\DemoApp\app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\AngCtrlCom\app\css" />
+      <recent name="H:\AngCtrlCom\app\lib\angular" />
+      <recent name="H:\Angular\Angular-1\DemoApp\DemoApp\app\css" />
+      <recent name="H:\Angular\Angular-1\DemoApp\DemoApp\app\js\directives" />
+      <recent name="H:\Angular\Angular-1\DemoApp\DemoApp\app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="EventDetails.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DemoApp/app/templates/EventDetails.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AngCtrlCom/app/index.html" />
+    <list>
+      <item itemvalue="JavaScript Debug.EventDetails.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.EventDetails.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02dd576d-8a25-4bb1-bd91-7d84ea1fead7" name="Default" comment="" />
+      <created>1532078004265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532078004265</updated>
+      <workItem from="1532078005900" duration="748000" />
+      <workItem from="1532080247645" duration="50053000" />
+      <workItem from="1532359159736" duration="11867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="98174000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2857143" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="0" weight="0.65074134" />
+      <window_info anchor="bottom" id="Run" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.1598023" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="16" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.27380952" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.34102142" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="15" visible="true" weight="0.011532125" />
+      <window_info anchor="bottom" id="Event Log" order="17" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/Service/DataService.js</url>
+          <line>6</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/js/controllers/EditProfileController.js" />
+    <entry file="file://$PROJECT_DIR$/app/js/services/GravatarUrlBuilder.js" />
+    <entry file="file://$PROJECT_DIR$/app/js/controllers/EventController.js" />
+    <entry file="file://$PROJECT_DIR$/app/js/controllers/SampleDirectiveController.js" />
+    <entry file="file://$PROJECT_DIR$/app/templates/SampleDirective.html" />
+    <entry file="file://$PROJECT_DIR$/app/js/directives.js" />
+    <entry file="file://$PROJECT_DIR$/app/js/directives/mySample.js" />
+    <entry file="file://$PROJECT_DIR$/app/templates/EventList.html" />
+    <entry file="file://$PROJECT_DIR$/app/templates/directives/eventThumbnail.html" />
+    <entry file="file://$PROJECT_DIR$/app/templates/directives/collapsible.html" />
+    <entry file="file://$PROJECT_DIR$/app/js/directives/eventThumbnail.js" />
+    <entry file="file://$PROJECT_DIR$/app/js/directives/collapsible.js" />
+    <entry file="file://$PROJECT_DIR$/app/templates/directives/upvote.html" />
+    <entry file="file://$PROJECT_DIR$/app/js/directives/upvote.js" />
+    <entry file="file://$PROJECT_DIR$/app/templates/NewEvent.html" />
+    <entry file="file://$PROJECT_DIR$/app/js/directives/datekeys.js" />
+    <entry file="file://$PROJECT_DIR$/app/js/controllers/EventListController.js" />
+    <entry file="file://$PROJECT_DIR$/app/EditProfile.html" />
+    <entry file="file://$PROJECT_DIR$/server.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/data/event/1.json" />
+    <entry file="file://$PROJECT_DIR$/server.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/controllers/EditEventController.js" />
+    <entry file="file://$PROJECT_DIR$/app/templates/EventDetails.html" />
+    <entry file="file://$PROJECT_DIR$/app/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/eventsController.js" />
+    <entry file="file://$PROJECT_DIR$/app/js/services/EventData.js" />
+    <entry file="file://$PROJECT_DIR$/test/karma.conf.js" />
+    <entry file="file://$PROJECT_DIR$/app/login/login.css" />
+    <entry file="file://$PROJECT_DIR$/app/lib/angular/angular-route.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/UserDetails/userDetailsController.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/pic_angular.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/login/loginDirective.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lib/angular/angular-cookies.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lib/angular/angular-cookies.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lib/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lib/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/web-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/login/loginController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="66" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/login/loginForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="34" column="86" lean-forward="true" selection-start-line="34" selection-start-column="86" selection-end-line="34" selection-end-column="86" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/userDetails/userDetailsDirective.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Service/DataService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="44" column="63" selection-start-line="44" selection-start-column="63" selection-end-line="44" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/userDetails/userDetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="69" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/userDetails/userDetailsController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

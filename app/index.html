@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="angCtrlCom">
+<head>
+    <base href="/">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.css">
+    <link rel="stylesheet" href="css/app.css">
+
+
+</head>
+<body >
+
+<div class="container" ng-controller="loginController">
+
+    <login-form></login-form>
+
+</div>
+
+
+
+<script src="/lib/angular/angular.js"></script>
+<script src="/lib/angular/angular-resource.js"></script>
+<script src="/lib/angular/angular-route.js"></script>
+<script src="/lib/angular/angular-sanitize.js"></script>
+<script src="lib/angular/angular-cookies.js"></script>
+<script src="app.js"></script>
+
+<script src="/login/loginDirective.js"></script>
+<script src="/login/loginController.js"></script>
+<script src="service/DataService.js"></script>
+
+<script src="userDetails/userDetailsController.js"></script>
+<script src="userDetails/userDetailsDirective.js"></script>
+
+</body>
+</html>
