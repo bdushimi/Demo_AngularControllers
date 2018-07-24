@@ -1,4 +1,4 @@
-# AngularControllers communication via cache
+# AngularControllers communication using cookies
 
 This project is a sample application demonstrating how two controllers can communicate and share data.
 
