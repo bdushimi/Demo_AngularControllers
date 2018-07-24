@@ -14,7 +14,6 @@
             $scope.onLogout = function () {
                 userService.api_cleanSession();
 
-                console.log('Salut');
                 $window.location.href = '/';
             };
 

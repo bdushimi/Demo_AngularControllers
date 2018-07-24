@@ -20,7 +20,7 @@
                            $window.location.href = '/userDetails';
                     }else
                     {
-                            console.log("Invalid username or password");
+                            $window.alert('Invalid username or password');
                     }
             };
 
