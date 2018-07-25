@@ -26,6 +26,7 @@
                 imgUrl: '../img/mechanical.jpg'
             }, {
                 username: 'cadet',
+                password: '12345',
                 firstName: 'cadet',
                 lastName: 'Cedric',
                 age: 14,
